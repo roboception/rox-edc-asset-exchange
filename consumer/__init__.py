@@ -1,0 +1,1 @@
+from .main import run_consumer_as_function as run_consumer_main 
